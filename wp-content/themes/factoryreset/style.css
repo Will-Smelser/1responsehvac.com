@@ -1,0 +1,176 @@
+/*
+Theme Name: FactoryReset
+Description: Error, error. A factory reset has commenced: 010001100110000101100011011101000110111101110010011110010101001001100101011100110110010101110100. This theme contains minimal style interference outside of structural and other minor spacial styles, all of which should be desired. Thank you. - Official Support Forum: bryanhadaway.com/forum/projects
+Author: Bryan Hadaway
+Author URI: http://calmestghost.com/
+Version: 1.3
+Tags: black, white, blue, light, two-columns, right-sidebar, fixed-width, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl.html
+
+FactoryReset WordPress Theme © 2013 Bryan Hadaway
+FactoryReset is distributed under the terms of the GNU GPL
+*/
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{font-size:100%;font:inherit;padding:0;border:0;margin:0;vertical-align:baseline}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}.clear{clear:both}
+big{font-size:18px}small, sup, sub{font-size:13px}sup{vertical-align:super}sub{vertical-align:sub}dd{margin-left:20px}kbd, tt{font-family:courier;font-size:13px}ins{text-decoration:underline}del, strike, s{text-decoration:line-through}
+
+body, div, p, input, textarea{line-height:125%}
+p{margin:20px 0}
+a img{border:0 none}
+#content img, #content figure{max-width:640px !important;height:auto}
+#sidebar img, #sidebar figure{max-width:300px !important;height:auto}
+h1, h2, h3, h4, h5, h6{line-height:30px;padding-bottom:10px;margin:30px 0 20px;clear:both}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{font-weight:bold;text-decoration:none}
+h1{font-size:30px}
+h2{font-size:25px}
+h3{font-size:20px}
+h4{font-size:19px}
+h5{font-size:18px}
+h6{font-size:17px}
+strong, dt{font-weight:bold}
+em, address, cite, var{font-style:italic}
+hr{height:1px;color:#ccc;border:0 none;margin:30px 0;background-color:#ccc}
+pre{overflow-x:auto;white-space:pre-wrap}
+.entry-content ul, .entry-content ol, .comment-content ul, .comment-content ol{margin-left:20px !important}
+.entry-content li:before, .comment-content li:before{content:"- "}
+ol li:before{content:"" !important}
+#container ol, .comment-content ol{list-style:decimal inside}
+#sidebar .widget-container ul{display:block;margin-left:10px}
+blockquote{padding:0 15px}
+input, textarea{font-size:14px;line-height:0;padding:5px;border:1px solid #ddd;background:#f6f6f6}
+textarea{line-height:normal}
+input[type="submit"]{line-height:125%}
+input[type="submit"]:hover{cursor:pointer}
+input[type="submit"]::-moz-focus-inner{border:0}
+label{display:block}
+
+
+body{
+	background-color:#003e4d;
+	color:#595959;
+	font:normal normal normal 18px/1.4em Helvetica, Arial, sans-serif;
+	margin:0px;
+}
+a{
+	color:inherit;
+}
+
+header {
+	
+	color:#FFF;
+	margin:0px;
+	padding:0px;
+	border-bottom:solid #e6212a 5px;
+}
+header #site-title{
+	font: normal normal normal 65px/1.7em Gadget, 'Arial Black', sans-serif;
+	color: #017d9f;
+	line-height:90%;
+	padding-left:30px;
+	
+}
+header #site-description{
+	font-size:35px;
+}
+
+#container{
+	background-color:#FFF;
+}
+
+#hwrapper, #inner-container{
+	width:1024px;
+	margin:0px auto;
+}
+
+/* Navigation */
+header ul{
+	padding:0px;
+	margin:0px;
+}
+header ul li:first{
+	
+}
+
+header ul li{
+	
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+
+nav ul, nav li, nav a{display:inline-block;color:#333}
+nav ul li a{font-size:20px;text-decoration:none;padding:7px 15px}
+nav ul li{
+	border:solid #fff 1px;
+	background-color:#fff;
+	border-left:solid #333 1px;
+}
+nav ul li.current_page_item{
+	border:solid #e6212a 1px;
+	background-color:#e6212a;
+	border-left:solid #333 1px;
+}
+nav ul li:first-child{
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	border-left:none;
+}
+nav ul li:last-child{
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+}
+
+nav ul li.current_page_item{
+	background-color:#e6212a;
+}
+
+nav ul li.current_page_item a{color:#FFF;}
+
+
+#wrapper{}
+#content{width:640px;padding:20px;float:left}
+#sidebar{width:300px;padding:20px;float:right}
+footer{margin-bottom:20px;}
+
+#site-title, #site-title h1, #site-title a{font-size:40px;font-weight:bold;line-height:125%;text-decoration:none !important;padding-bottom:10px;margin:30px 0 20px;border-bottom:0}
+#site-title h1{padding:0 !important;margin:0 !important}
+
+#search{margin-top:10px;float:right}
+
+#copyright{text-align:center;line-height:100px}
+
+.entry-title{margin-bottom:20px}
+.entry-meta, .entry-footer{font-size:14px;margin:25px 0}
+.nav-previous{text-align:left}
+.nav-next{text-align:right}
+.comments ul{padding:0;margin:0}
+.comment, .trackback, .pingback{padding:10px;margin:10px 0 10px 0}
+.odd{}
+#form-allowed-tags code{font-size:12px}
+#respond input{width:200px;display:block}
+#respond input:focus, #respond textarea:focus{background:#fff}
+#respond textarea{width:400px;height:100px;overflow:auto}
+#respond #submit{width:auto;font-weight:bold}
+.avatar{width:32px;height:32px;margin:0 5px 5px 0;float:left}
+
+.sticky{padding:0.01px 15px;margin-top:20px}
+.sticky .entry-title{padding-top:20px;margin-top:0}
+.bypostauthor{background:#f6f6f6}
+.wp-caption{margin:20px 0}
+.wp-caption-text{}
+.alignleft, .aligncenter, .alignright{text-align:center}
+.gallery-caption{}
+.alignleft{margin:15px 15px 15px 0;float:left}
+.alignright{margin:15px 0 15px 15px;float:right}
+.aligncenter{display:block;margin:15px auto;clear:both}
+.size-thumbnail{margin:5px}
+#wp-calendar{width:100%}
+#wp-calendar td{text-align:center}
+#wp-calendar #prev{text-align:left}
+#wp-calendar #next{text-align:right}
+.page-link, .entry-footer, .edit-link{clear:both}
+.page-link, .entry-footer, .page .edit-link{display:block;margin-top:20px}
+
+#nav-above, .comment-notes, .form-allowed-tags{display:none}
+.attachment #nav-above{display:block}

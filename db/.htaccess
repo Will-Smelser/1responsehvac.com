@@ -1,0 +1,6 @@
+AuthUserFile .htpasswd
+AuthType Basic
+AuthName "Password Protected"
+<Files "1responsehvac.sql">
+  Require valid-user
+</Files>

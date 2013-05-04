@@ -8,6 +8,10 @@
 	href="<?php echo get_stylesheet_uri(); ?>" />
 <?php wp_head(); ?>
 
+<link href="/scripts/jquery/css/1responsehvac/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+<script src="/scripts/jquery/js/jquery-1.9.1.js"></script>
+<script src="/scripts/jquery/js/jquery-ui-1.10.3.custom.js"></script>
+
 <style>
 <?php 
 	$skip = array(4,7);
@@ -35,7 +39,9 @@ article #comments{
 				<!-- <div id="search"><?php get_search_form(); ?></div> -->
 				
 				<div style="position:absolute;right:45px;top:-20px;">
-					<div style="position:absolute;top:10px;font-size:35px;color:#333;text-align:center;width:350px;font-weight:bolder">714 - 225 - 1326</div>
+					<div style="position:absolute;top:20px;color:#333;text-align:center;width:350px;font-weight:bolder">
+						<span style"font-size:20px">Call Us!&nbsp;&nbsp;&nbsp;</span><span style="font-size:35px">714-225-1326</span>
+					</div>
 					<img src="/images/dialog-bubble-yellow.png" width="350px" />
 				</div>
 				

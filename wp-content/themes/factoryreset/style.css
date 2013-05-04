@@ -91,15 +91,24 @@ header ul{
 header ul li:first{
 	
 }
-
 header ul li{
 	
 	margin:0px;
 	padding:0px;
 	text-align:center;
 }
+nav ul li:hover{
+	background-color:#e6212a;
+	border:solid #e6212a 1px;
+	border-left:solid #333 1px;
+}
+
+nav ul li > ul{
+	display:none;
+}
 
 nav ul, nav li, nav a{display:inline-block;color:#333}
+nav a:hover{color:#FFF;}
 nav ul li a{font-size:20px;text-decoration:none;padding:7px 15px}
 nav ul li{
 	border:solid #fff 1px;
@@ -129,7 +138,7 @@ nav ul li.current_page_item a{color:#FFF;}
 
 
 #wrapper{}
-#content{width:640px;padding:20px;float:left}
+#content{width:640px;padding:0px 20px 20px;float:left}
 #sidebar{width:300px;padding:20px;float:right}
 footer{margin-bottom:20px;}
 
@@ -138,7 +147,7 @@ footer{margin-bottom:20px;}
 
 #search{margin-top:10px;float:right}
 
-#copyright{text-align:center;line-height:100px}
+#copyright{text-align:center;line-height:30px}
 
 .entry-title{margin-bottom:20px}
 .entry-meta, .entry-footer{font-size:14px;margin:25px 0}

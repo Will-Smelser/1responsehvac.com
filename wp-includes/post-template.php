@@ -917,7 +917,7 @@ function wp_page_menu( $args = array() ) {
 	$list_args['echo'] = false;
 	$list_args['title_li'] = '';
 	$menu .= str_replace( array( "\r", "\n", "\t" ), '', wp_list_pages($list_args) );
-
+	
 	if ( $menu )
 		$menu = '<ul>' . $menu . '</ul>';
 

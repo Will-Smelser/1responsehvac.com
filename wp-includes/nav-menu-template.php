@@ -207,6 +207,8 @@ function wp_nav_menu( $args = array() ) {
 
 	$items .= walk_nav_menu_tree( $sorted_menu_items, $args->depth, $args );
 	unset($sorted_menu_items);
+	
+	$items = str_replace( array( "\r", "\n", "\t" ), '', $items);
 
 	// Attributes
 	if ( ! empty( $args->menu_id ) ) {

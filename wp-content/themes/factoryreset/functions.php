@@ -126,6 +126,7 @@ echo $avatar . ' <span class="fn n">' . $commenter . '</span>';
 function factoryreset_custom_comments($comment, $args, $depth) {
 $GLOBALS['comment'] = $comment;
 $GLOBALS['comment_depth'] = $depth;
+
 ?>
 <li id="comment-<?php comment_ID() ?>" <?php comment_class() ?>>
 <div class="comment-author vcard"><?php factoryreset_commenter_link() ?></div>
@@ -161,3 +162,29 @@ edit_comment_link(__('Edit', 'factoryreset'), ' <span class="meta-sep"> | </span
 <?php comment_text() ?>
 </div>
 <?php }
+
+
+
+//my short codes
+$GLOBALS['mygallery-has-ran'] = false;
+function mygallery_shortcode($attr, $content){
+	$content = preg_replace('/(\<p\>)|(\<\/p\>)/i','',$content);
+	$content = do_shortcode($content); 
+	$return = "<div class='gallery-content'>$content</div>";
+	
+	if($GLOBALS['mygallery-has-ran'] === false){
+		$return .= '
+<link href="/scripts/jquery/css/colorbox2.css" rel="stylesheet" />
+<script src="/scripts/jquery/jquery.colorbox.js" ></script>
+<script>
+$(document).ready(function(){
+	$(".gallery-content a").colorbox();
+});
+</script>';
+	}
+	
+	$GLOBALS['mygallery-has-ran'] = true;
+	return $return;
+}
+add_shortcode('mygallery', 'mygallery_shortcode');
+

@@ -1,4 +1,8 @@
 <?php
+
+$path = dirname(__FILE__); 	
+$dbhost = (strstr($path,'htdocs')) ? 'localhost' : 'responsehvac.db.9498744.hostedresource.com';
+
 /**
  * The base configurations of the WordPress.
  *
@@ -16,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', '1responsehvac');
+define('DB_NAME', 'responsehvac');
 
 /** MySQL database username */
-define('DB_USER', 'rosas');
+define('DB_USER', 'responsehvac');
 
 /** MySQL database password */
-define('DB_PASSWORD', '!vanRosas1');
+define('DB_PASSWORD', 'i!vanRosas1');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', $dbhost);
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

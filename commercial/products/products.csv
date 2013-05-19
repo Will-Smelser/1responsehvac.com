@@ -1,0 +1,33 @@
+type,model,capacity,btu,refrigerant,desc_main,desc_1,seer,image
+ac,24ANA1,40214,,Puron®,Infinity™ 21 ,Two-Speed Unit,21 SEER,ca_infinity_air.jpg
+ac,24ANA7,40214,,Puron®,Infinity™ 17,Two-Speed Unit,17 SEER,ca_infinity_air.jpg
+ac,24APA5,1.5 - 5,,Puron®,Performance™,,15 SEER,ca_infinity_air.jpg
+ac,24APA7,40214,,Puron®,Performance™,,17 SEER,25HPA6.jpg
+ac,38HDR,1.5 - 5,,Puron®,Performance™,,15 SEER,38QRR.gif
+ac,24ACB6,40214,,Puron®,Comfort™,,16 SEER,Car_AC.HP_Comfort.jpg
+ac,24ACB4,1.5 - 5,,Puron®,Comfort™,,15 SEER,Car_AC.HP_Comfort.jpg
+ac,24ACB3,1.5 - 5,,Puron®,Comfort™,,13 SEER,Car_AC.HP_Comfort.jpg
+ac,24ACS3,1.5 - 5,,R-22,Comfort™,,13 SEER,Car_AC.HP_Comfort.jpg
+ac,24ABB4,1.5 - 5,,Puron®,Standard Unit,,14 SEER,CAR_AC.HP_dense_grille.jpg
+ac,24ABB3,1.5 - 5,,Puron®,Standard Unit,,13 SEER,CAR_AC.HP_dense_grille.jpg
+ac,24ABS3,1.5 - 5,,R-22,Standard Unit,,13 SEER,CAR_AC.HP_dense_grille.jpg
+uvl,UVLCC2LP,,,,Dual Element Ultraviolet Light,Performance,,cac_uva_2.gif
+uvl,UVLCC1LP,,,,Single Element Ultraviolet Light,Performance,,cac_uva_1.gif
+dfsi,RAVKR,,"18,000 - 25,500",,Duct Free Systems - Indoor,Heat Pump,16.7 - 19.5,ravkr-duct-free-split-system.jpg
+dfsi,RASLK,,"10,800 - 23,200",,Duct Free Systems - Indoor,Heat Pump,15.5 - 23.0,raslk-duct-free-split-system.jpg
+dfsi,40GXQ,,"8,600 - 20,000",,Duct Free Systems - Indoor,Heat Pump,15.0 - 16.0,40gx-duct-free-split-system.jpg
+dfsi,40GXM,,"16,500 - 26,000",,Duct Free Systems - Indoor,Heat Pump,14.0 - 14.5,40gxm-duct-free-split-system.jpg
+dfsi,40QNQ,,"17,400 - 32,600",,Duct Free Systems - Indoor,Heat Pump,13,40qn-duct-free-split-system.jpg
+dfsi,40MVQ,,"9,600 - 22,500",,Duct Free Systems - Indoor,Heat Pump,13,40mv-duct-free-split-system.jpg
+dfsi,40GXC,,"8,600 - 20,000",,Duct Free Systems - Indoor,Cooling,15.0 - 16.0,40gx-duct-free-split-system.jpg
+dfso,RAVAT,,"18,000 - 25,500",,Duct Free Systems - Outdoor,Heat Pump,16.7 - 19.5,ravat-duct-free-split.jpg
+dfso,RASLA,,"10,800 - 23,200",,Duct Free Systems - Outdoor,Heat Pump,15.5 - 23.0,rasla-duct-free-split.jpg
+dfso,38GXQ,,"8,600 - 20,000",,Duct Free Systems - Outdoor,Heat Pump,15.0 - 16.0,38gxc-duct-free-split.jpg
+dfso,38GXM,,"16,500 - 26,000",,Duct Free Systems - Outdoor,Heat Pump,14.0 - 14.5,38gxc-duct-free-split.jpg
+dfso,38QRF,,"17,400 - 32,600",,Duct Free Systems - Outdoor,Heat Pump,13,38qrf-duct-free-split.jpg
+dfso,38MVQ,,"9,600 - 22,500",,Duct Free Systems - Outdoor,Heat Pump,13,38mv-duct-free-split.jpg
+dfso,38GXC,,"8,600 - 20,000",,Duct Free Systems - Outdoor,Cooling,15.0 - 16.0,38gxc-duct-free-split.jpg
+dfsi,40QNC,,"16,600 - 34,200",,Duct Free Systems - Indoor,Cooling,13,40qn-duct-free-split-system.jpg
+dfsi,40MVC,,"9,200 - 22,000",,Duct Free Systems - Indoor,Cooling,13,40mv-duct-free-split-system.jpg
+dfso,38HDF,,"16,600 - 34,200",,Duct Free Systems - Outdoor,Cooling,13,38hdf-duct-free-split.jpg
+dfso,38MVC,,"9,200 - 22,000",,Duct Free Systems - Outdoor,Cooling,13,38mv-duct-free-split.jpg

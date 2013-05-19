@@ -1,0 +1,71 @@
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="415" align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="100%" height="1" align="left" valign="top">
+<table width="100%">
+<tbody>
+<tr>
+<td width="100%">
+<div style="text-align: -webkit-left;"><span><br /></span></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left"><span class="BodyText">
+<p>Duct-free split systems are a matched combination of an outdoor condensing unit and an indoor fan coil unit connected only by refrigerant tubing and wires.</p>
+<p>Up to four 40GXM fan coils can be matched with one&nbsp;<a class="TextLink" href="javascript:addLink('/commercial/hvac/product_description/1,,CLI1_DIV12_ETI434_PRD1793,00.html');">38GXM</a>condensing unit.</p>
+</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<span class="SubheaderText"><br />40GXM Features When Matched with 38GXM</span> 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span class="BodyText">Up to 14.5 SEER, up to 8.5 HSPF</span></li>
+<li><span class="BodyText">Inverter compressor technology (18-30K BTUH)</span></li>
+<li><span class="BodyText">18K 2:1, 24K 2:1, 30K 4:1 (connect 2, 3 or 4 fan coils)</span></li>
+<li><span class="BodyText">Three indoor capacities: 9K, 12K and 18K</span></li>
+<li><span class="BodyText">Wireless remote, LED display</span></li>
+<li><span class="BodyText">Low-voltage controls, sleep mode</span></li>
+<li><span class="BodyText">Indoor units powered from outdoor unit</span></li>
+<li><span class="BodyText">Auto restart on power failure</span></li>
+<li><span class="BodyText">Dehumidification mode</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

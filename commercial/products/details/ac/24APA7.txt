@@ -1,0 +1,62 @@
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="71%" align="left" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="100%" height="1" align="left" valign="top"><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;"><br />Carrier Performance&acirc;&bdquo;&cent; 17 2-Stage Air Conditioner with Puron Refrigerant, Model 24APA7 is available in 2-5 ton nominal-sized units.
+<p><strong>STANDARD FEATURES</strong></p>
+<p><strong>Energy Efficiency</strong></p>
+<ul>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;17 SEER / 11.5-13 EER</li>
+</ul>
+<strong>Aesthetic Design</strong> 
+<ul>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;WeatherArmor&acirc;&bdquo;&cent; System 
+<ul>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Baked-on powder paint</li>
+<li>&Acirc;&nbsp;Steel-louver Coil Guard</li>
+</ul>
+</li>
+</ul>
+<strong>Quiet Operation</strong> 
+<ul>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Sound as low as 72 dBA</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Sound Blanket standard</li>
+</ul>
+<strong>Reliability, Quality and Durability</strong> 
+<ul>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;2-Stage Scroll Compressor</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Field-installed Filter Drier</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Front-seating Service Valves</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;High-Pressure Switch</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Low-Pressure Switch</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Internal Pressure-Relief Valve</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Internal thermal overload</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Crankcase Heater standard</li>
+</ul>
+<strong>Applications/Serviceability</strong> 
+<ul>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Infinity&acirc;&bdquo;&cent; or Thermostat Control</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Low ambient cooling to 0&Acirc;&deg;F with complete Infinity&acirc;&bdquo;&cent; System</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Utility Interface Connections</li>
+<li>&Acirc;&nbsp;&Acirc;&nbsp;Enhanced Diagnostics with Infinity Control</li>
+</ul>
+</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: Arial, 'Sans serif';"><span style="font-size: x-small;"><br /></span></span></p>

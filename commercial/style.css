@@ -1,0 +1,72 @@
+@import url("http://cssksw.com/azltan");
+td, table{
+	font-family:tahoma;
+	font-size:11px;
+	vertical-align:top;
+	line-height:13px;
+	color:#2D3331;
+	
+}
+
+
+form { margin:0px; padding:0px}
+body { margin:0px; padding:0px}
+
+.list ul{margin:0px; padding:0px; list-style:none; line-height:16px;}
+.list ul li{ background:url(images/list_marker.gif) no-repeat left top; padding:0 0 0 11px}
+.list ul li a{ color:#BA2A28; text-decoration:underline}
+.list ul li a:hover{text-decoration:none}
+
+.list1 ul{margin:0px; padding:0px; list-style:none; line-height:16px;}
+.list1 ul li{ background:url(images/list_marker1.gif) no-repeat left top; padding:0 0 0 7px}
+.list1 ul li a{ color:#BA2A28; text-decoration:underline}
+.list1 ul li a:hover{text-decoration:none}
+
+.list2 ul{margin:0px; padding:0px; list-style:none; line-height:18px;}
+.list2 ul li{ background:url(images/list_marker1.gif) no-repeat left top; padding:0 0 0 7px}
+.list2 ul li a{ color:#BA2A28; text-decoration:underline}
+.list2 ul li a:hover{text-decoration:none}
+
+
+.footer{ color:#5D6360; font-size:9px; line-height:11px}
+.footer a{ color:#5D6360; text-decoration:none}
+.footer a:hover{ text-decoration:underline}
+.footer span{ color:#313432}
+
+strong{ color:#BA2A28}
+
+.line{ font-size:9px; line-height:10px}
+
+a{ color:#BA2A28; text-decoration:underline}
+a:hover{ text-decoration:none}
+
+span a{ color:#2D3331; text-decoration:underline}
+span a:hover{ text-decoration:none}
+
+
+.form input {
+	width:179px;
+	height:21px;
+	font-family:tahoma;
+	font-size:11px;
+	color: #2D3331;
+	padding:2 0 0 6px;
+	border-color:#D7D7D7;
+	border-width:1px;
+	background-color:#FAFAFB
+}
+
+
+
+.form textarea {
+	width:179px;
+	height:221px;
+	font-family:tahoma;
+	font-size:11px;
+	color:#2D3331;
+	overflow:hidden;
+	padding:2 0 0 6px;
+	border-color:#D7D7D7;
+	border-width:1px;
+	background-color:#FAFAFB
+}

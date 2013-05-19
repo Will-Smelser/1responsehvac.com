@@ -1,0 +1,49 @@
+<p><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>58CVA/58CVX Gas-Fired Furnaces&nbsp;</strong></span><br /><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;"><a name="144763b"></a>The 58CVA/58CVX variable-speed, 4-way multipoise gas furnaces offer unmatched comfort with ComfortHeat<sup>TM</sup>&nbsp;Technology and IdealHumidity<sup>TM</sup>&nbsp;in an 80% AFUE gas furnace. You get all the benefits of a ComfortHeat Technology furnace: reduced drafts, reduced sound levels, longer cycles, less temperature swings betweencycles, and less temperature differences between rooms. With the variable-speed blower motor, homeowners can now economically run constant fan to help eliminate temperature differences through-out the house and to get better indoor air quality. This IdealHumidity furnace also increases comfort in the summer by wringing out extra humidity when needed. The 58CVA furnaces are approved for use with natural or propane gas. The CVX furnaces are approved for use with natural or propane gas, and for use in Low NOx Air Quality Management districts. The 58CVA/58CVX furnaces feature:&nbsp;</span><br /><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>&nbsp;</strong></span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">ComfortHeat<sup>TM</sup>&nbsp;Technology</span> 
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Intelligent microprocessor control</span> 
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">State-of-the-art diagnosis features with Advanced Product Monitor software. Control connects directly to a laptop computer or Palm Computing<sup>TM</sup>&nbsp;device to read out over 70 different parameters.</span></li>
+</ul>
+</li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Two-stage heating with single-stage thermostat</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Very low operating sound through low-stage operation and QuieTech &Acirc;&reg; noise reduction system</span></li>
+</ul>
+</li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Integral part of the IdealHumidity<sup>TM</sup>&nbsp;System</span> 
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Maximum dehumidification selection for summertime cooling</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Full IdealHumidity benefits including "Super Dehumidify" and SmartEvap<sup>TM</sup></span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Variable-speed blower motor</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Increased SEER ratings for AC and HP systems</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Perfectly matches CFM to cooling system at all static points</span></li>
+</ul>
+</li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Media filter cabinet included</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Microprocessor based "smart" control center</span> 
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Automatically adjusts heating stage times to meet demand</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Adjustable heating air temperature rise</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">ComfortFan<sup>TM</sup>&nbsp;- Constant fan speed selectable from thermostat</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">LED diagnostics and self-test feature</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Stores fault codes during power outages</span></li>
+</ul>
+</li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">4-way multipoise furnace, 13 vent applications</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Shorter in height - only 33 1/3" tall</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Hot Surface Ignition (HSI)</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Draft safeguard switch to ensure proper furnace venting</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Insulated blower compartment</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Heat pump compatible</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">All models are chimney-friendly when used with accessory vent kit</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Residential installations eligible for consumer financing through the Retail Credit Program</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>

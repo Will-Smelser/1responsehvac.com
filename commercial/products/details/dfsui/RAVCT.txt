@@ -1,0 +1,42 @@
+<table width="100%">
+<tbody>
+<tr>
+<td width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left"><span class="BodyText"><a name="153658b"></a>
+<p>Duct-free split systems are a matched combination of an outdoor condensing unit and an indoor fan coil unit connected only by refrigerant tubing and wires.</p>
+<p>The RAVCT fan coil unit is matched with the&nbsp;<a class="TextLink" href="javascript:addLink('/commercial/hvac/product_description/1,,CLI1_DIV12_ETI434_PRD1797,00.html');">RAVAT</a>&nbsp;condensing unit.</p>
+</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span class="SubheaderText"><br />RAVCT Features When Matched With RAVAT</span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span class="BodyText">Up to 20.6 SEER, up to 11.0 HSPF</span></li>
+<li><span class="BodyText">Digital inverter compressor technology (18-42K BTUH)</span></li>
+<li><span class="BodyText">Slim-line design</span></li>
+<li><span class="BodyText">Optional condensate pump</span></li>
+<li><span class="BodyText">Optional wired or wireless controller</span></li>
+<li><span class="BodyText">Low-ambient cooling down to 5&deg; F</span></li>
+<li><span class="BodyText">Auto louver mode</span></li>
+<li><span class="BodyText">Optional fresh air intake</span></li>
+<li><span class="BodyText">Power saving mode</span></li>
+<li><span class="BodyText">Quiet operation</span></li>
+<li><span class="BodyText">Diagnostics</span></li>
+<li><span class="BodyText">Filter maintenance indicator</span></li>
+<li><span class="BodyText">Clean mod</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>

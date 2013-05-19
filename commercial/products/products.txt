@@ -1,0 +1,81 @@
+type	sort	type_desc	Model	Outdoor Unit	Capacity	BTUs	Refrigerant	title	sub_title	Details	Description	SEER	image
+ac	1	Air Conditioners	24ANA1		2 - 5		Puron®	Infinity™ 21 			Infinity™ 21 	21	ca_infinity_air.jpg
+ac	2	Air Conditioners	24ANA7		2 - 5		Puron®	Infinity™ 17			Infinity™ 17	17	ca_infinity_air.jpg
+ac	3	Air Conditioners	24APA5		1.5 - 5		Puron®	Performance™			Performance™	15	ca_infinity_air.jpg
+ac	4	Air Conditioners	24APA7		2 - 5		Puron®	Performance™			Performance™	17	25HPA6.jpg
+ac	5	Air Conditioners	38HDR		1.5 - 5		Puron®	Performance™			Performance™	15	38QRR.gif
+ac	6	Air Conditioners	24ACB6		2 - 5		Puron®	Comfort™			Comfort™	16	Car_AC.HP_Comfort.jpg
+ac	7	Air Conditioners	24ACB4		1.5 - 5		Puron®	Comfort™			Comfort™	15	Car_AC.HP_Comfort.jpg
+ac	8	Air Conditioners	24ACB3		1.5 - 5		Puron®	Comfort™			Comfort™	13	Car_AC.HP_Comfort.jpg
+ac	9	Air Conditioners	24ACS3		1.5 - 5		R-22	Comfort™			Comfort™	13	Car_AC.HP_Comfort.jpg
+ac	10	Air Conditioners	24ABB4		1.5 - 5		Puron®	Standard Unit			Standard Unit	14	CAR_AC.HP_dense_grille.jpg
+ac	11	Air Conditioners	24ABB3		1.5 - 5		Puron®	Standard Unit			Standard Unit	13	CAR_AC.HP_dense_grille.jpg
+ac	12	Air Conditioners	24ABS3		1.5 - 5		R-22	Standard Unit			Standard Unit	13	CAR_AC.HP_dense_grille.jpg
+uvl	1	UV Lamps	UVLCC2LP					Dual Element Ultraviolet Light			Dual Element Ultraviolet Light		cac_uva_2.gif
+uvl	2	UV Lamps	UVLCC1LP					Single Element Ultraviolet Light			Single Element Ultraviolet Light		cac_uva_1.gif
+dfsi	1	Duct Free Systems	RAVKR	RAVAT		18,000 - 25,500		Duct Free Systems	High Wall	High Wall	Heat Pump	16.7 - 19.5	ravkr-duct-free-split-system.jpg
+dfsi	2	Duct Free Systems	RASLK	RASLA		10,800 - 23,200		Duct Free Systems	High Wall	High Wall	Heat Pump	15.5 - 23.0	raslk-duct-free-split-system.jpg
+dfsi	3	Duct Free Systems	40GXQ	38GXQ		8,600 - 20,000		Duct Free Systems	High Wall	High Wall	Heat Pump	15.0 - 16.0	40gx-duct-free-split-system.jpg
+dfsi	4	Duct Free Systems	40GXM	38GXM		16,500 - 26,000		Duct Free Systems	High Wall	High Wall	Heat Pump	14.0 - 14.5	40gxm-duct-free-split-system.jpg
+dfsi	5	Duct Free Systems	40QNQ	38QRF		17,400 - 32,600		Duct Free Systems	High Wall	High Wall	Heat Pump	13	40qn-duct-free-split-system.jpg
+dfsi	6	Duct Free Systems	40MVQ	38MVQ		9,600 - 22,500		Duct Free Systems	High Wall	High Wall	Heat Pump	13	40mv-duct-free-split-system.jpg
+dfsi	7	Duct Free Systems	40GXC	38GXC		8,600 - 20,000		Duct Free Systems	High Wall	High Wall	Cooling	15.0 - 16.0	40gx-duct-free-split-system.jpg
+dfsi	8	Duct Free Systems	40QNC	38HDF		16,600 - 34,200		Duct Free Systems	High Wall	High Wall	Cooling	13	40qn-duct-free-split-system.jpg
+dfsi	9	Duct Free Systems	40MVC	38MVC		9,200 - 22,000		Duct Free Systems	High Wall	High Wall	Cooling	13	40mv-duct-free-split-system.jpg
+dfso	1	Duct Free Systems	RAVAT			18,000 - 25,500		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Heat Pump	16.7 - 19.5	ravat-duct-free-split.jpg
+dfso	2	Duct Free Systems	RASLA			10,800 - 23,200		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Heat Pump	15.5 - 23.0	rasla-duct-free-split.jpg
+dfso	3	Duct Free Systems	38GXQ			8,600 - 20,000		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Heat Pump	15.0 - 16.0	38gxc-duct-free-split.jpg
+dfso	4	Duct Free Systems	38GXM			16,500 - 26,000		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Heat Pump	14.0 - 14.5	38gxc-duct-free-split.jpg
+dfso	5	Duct Free Systems	38QRF			17,400 - 32,600		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Heat Pump	13	38qrf-duct-free-split.jpg
+dfso	6	Duct Free Systems	38MVQ			9,600 - 22,500		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Heat Pump	13	38mv-duct-free-split.jpg
+dfso	7	Duct Free Systems	38GXC			8,600 - 20,000		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Cooling	15.0 - 16.0	38gxc-duct-free-split.jpg
+dfso	8	Duct Free Systems	38HDF			16,600 - 34,200		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Cooling	13	38hdf-duct-free-split.jpg
+dfso	9	Duct Free Systems	38MVC			9,200 - 22,000		Duct Free Systems - Outdoor Unit	High Wall	High Wall	Cooling	13	38mv-duct-free-split.jpg
+dfsci	1	Duct Free Systems	RAVUT	RAVAT		19,000 - 48,000		Duct Free Systems	In-Ceiling	In-Ceiling	Heat Pump	19.0-21.0	ravut-duct-free-split-system.jpg
+dfsci	2	Duct Free Systems	40KMQ	38QRF		17,900 - 33,400		Duct Free Systems	In-Ceiling	In-Ceiling	Heat Pump	13	40km-duct-free-split-system.jpg
+dfsci	3	Duct Free Systems	40KMC	38HDF		17000 - 36,400		Duct Free Systems	In-Ceiling	In-Ceiling	Cooling	13	40km-duct-free-split-system.jpg
+dfsui	1	Duct Free Systems	RAVCT	RAVAT		17,000 - 41,000		Duct Free Systems	Under-Ceiling	Under-Ceiling	Heat Pump	17.0-20.6	ravct-duct-free-split-system.jpg
+dfsui	2	Duct Free Systems	40QAQ	38QRR		17,000 - 56,000		Duct Free Systems	Under-Ceiling	Under-Ceiling	Heat Pump	13	40qa-duct-free-split-system.jpg
+dfsui	3	Duct Free Systems	40QAC	38HDR		18,000 - 57,000		Duct Free Systems	Under-Ceiling	Under-Ceiling	Cooling	13	40qa-duct-free-split-system.jpg
+gf	1	Gas Furnaces	58UVB			60000 - 120000		Infinity™ 96 Upflow Variable-Capacity Condensing Gas Furnace 	Gas Furnace		95% AFUE		58MVB.jpg
+gf	2	Gas Furnaces	58MVB			40000 - 120000		Infinity™ 96 Variable Speed Gas Furnace	Gas Furnace		96.6% AFUE		58MVB.jpg
+gf	3	Gas Furnaces	58MVC			60000 - 120000		Infinity™ Variable Speed Modulating Gas Furnace	Gas Furnace		95% AFUE		58MVB.jpg
+gf	4	Gas Furnaces	58HDV			40,000 - 100,000		Performance™ 2-Stage Capacity Variable Speed Gas Furnace	Gas Furnace		95% AFUE		58HDV.jpg
+gf	5	Gas Furnaces	58MEB			38000 - 112000		Performance™ Boost 90 Gas Furnace	Gas Furnace		93% AFUE		58MEB.jpg
+gf	6	Gas Furnaces	58MTB			60000 - 120000		Performance™ 93 2-Stage Gas Furnace	Gas Furnace		93% AFUE		58MTB.jpg
+gf	7	Gas Furnaces	58HDX			60,000 - 100,000		Comfort™ 4-Way Multi-Poise 95% AFUE	Gas Furnace		95% AFUE		58HDV.jpg
+gf	8	Gas Furnaces	58MXB			38000 - 128000		Comfort™ 92 Gas Furnace	Gas Furnace		95% AFUE		58MXB.jpg
+gf	9	Gas Furnaces	58MCB			37000 - 127000		Gas Furnace	Gas Furnace		92% AFUE		58MCB.jpg
+gf	10	Gas Furnaces	58CVA			66000 - 154000		Infinity™ 80 Variable Speed Gas Furnace	Gas Furnace		80% AFUE		58CVA.jpg
+gf	11	Gas Furnaces	58CVX			66000 - 154000		Infinity™ 80 Variable Speed Gas Furnace Low-NOx	Gas Furnace		80% AFUE		58CVX.jpg
+gf	12	Gas Furnaces	58PHA			44000 - 132000		Performance™ Boost 80 Gas Furnace	Gas Furnace		80% AFUE		58PHA.jpg
+gf	13	Gas Furnaces	58CTA			44000 - 154000		Performance™ 80 2-Stage Gas Furnace	Gas Furnace		80% AFUE		58CTA_CTX.jpg
+gf	14	Gas Furnaces	58CTX			44000 - 154000		Performance™ 80 2-Stage Gas Furnace Low-NOx	Gas Furnace		80% AFUE		58CTA_CTX.jpg
+gf	15	Gas Furnaces	58DLA			44000 - 154000		Comfort™ 80 Gas Furnace	Gas Furnace		80% AFUE		Comfort80.jpg
+gf	16	Gas Furnaces	58DLX			44000 - 154000		Comfort™ 80 Gas Furnace Low-NOx	Gas Furnace		80% AFUE		Comfort80.jpg
+gf	17	Gas Furnaces	58STA			44000 - 154000		Gas Furnace	Gas Furnace		80% AFUE		Comfort80.jpg
+gf	18	Gas Furnaces	58STX			44000 - 154000		Gas Furnace Low-NOx	Gas Furnace		80% AFUE		80.jpg
+ap	1	Air Purifiers	GAPAA					Infinity Series	Air Purifier (Furnace)		Infinity Series		GAPAACC.jpg
+ap	2	Air Purifiers	GAPAB					Infinity Series	Air Purifier (Fan Coil)		Infinity Series		GAPBCC.jpg
+ap	3	Air Purifiers	EACB					Performance Series	Electronic Air Cleaner		Performance Series		EACB_Image.jpg
+ap	4	Air Purifiers	EZXCAB					Performance Series	Air Filter with Cabinet		Performance Series		EXFlex.jpg
+ap	5	Air Purifiers	FILCAB					Performance Series	Mechanical Air Cleaner		Performance Series		Carrier_Media_Cabinet_Filter_FILCAB.jpg
+stats	2	Thermostats	TP-EXP01-A					Performance™ Series	Edge® ExP® module with ComfortPlanner™ software - Home edition, revision A		Performance™ Series		
+stats	1	Thermostats	TP-PRH01-A					Performance™ Series	Edge® programmable Thermidistat™ Control, revision A		Performance™ Series		TP_Program.jpg
+stats	3	Thermostats	TP-PHP01					Performance™ Series	Edge® programmable HP and AC capable thermostat		Performance™ Series		TP_Program.jpg
+stats	4	Thermostats	TP-PAC01					Performance™ Series	Edge® programmable AC-only capable thermostat		Performance™ Series		TP_Program.jpg
+stats	5	Thermostats	TP-NRH01-A					Performance™ Series	Edge® non-programmable Thermidistat™ Control, revision A		Performance™ Series		
+stats	6	Thermostats	TP-NHP01					Performance™ Series	Edge® non-programmable HP and AC capable thermostat		Performance™ Series		TP_Non_Program.jpg
+stats	7	Thermostats	TP-NAC01					Performance™ Series	Edge® non-programmable AC-only capable thermostat		Performance™ Series		TP_Non_Program.jpg
+stats	8	Thermostats	TC-PHP01					Comfort™ Series	Programmable HP and AC capable thermostat		Comfort™ Series		TC_Programmable.jpg
+stats	9	Thermostats	TC-PAC01					Comfort™ Series	Programmable AC-only capable thermostat		Comfort™ Series		TC_Programmable.jpg
+stats	10	Thermostats	TC-NHP01					Comfort™ Series	Large-screen non-programmable HP and AC capable thermostat		Comfort™ Series		TC_Non_Programmable.jpg
+stats	11	Thermostats	TC-NAC01					Comfort™ Series	Large-screen non-programmable AC-only capable thermostat		Comfort™ Series		TC_Non_Programmable.jpg
+stats	12	Thermostats	TCSNHP01					Comfort™ Series	Standard-screen non-programmable HP and AC capable thermostat		Comfort™ Series		
+stats	13	Thermostats	TCSNAC01					Comfort™ Series	Standard-screen non-programmable AC-only capable thermostat		Comfort™ Series		
+stats	14	Thermostats	TB-PHP01					Base Models	Programmable HP and AC capable thermostat		Base Models		
+stats	15	Thermostats	TB-PAC01					Base Models	Programmable AC-only capable thermostat		Base Models		
+stats	16	Thermostats	TB-NHP01					Base Models	Non-programmable HP and AC capable thermostat		Base Models		
+stats	17	Thermostats	TB-NAC01					Base Models	Non-programmable AC-only capable thermostat		Base Models		
+stats	18	Thermostats	TSTATXXSEN01-B					Outdoor Air Temperature Sensor			Outdoor Air Temperature Sensor		
+stats	19	Thermostats	TSTATXXRRS01-B					Remote room temperature sensor			Remote room temperature sensor		

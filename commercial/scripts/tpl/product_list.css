@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.tpl_plist H2{
+	font-size:20px;	
+	color:#333;
+}
+.tpl_plist LI{
+	list-style:none;
+}
+.tpl_plist .image{
+	vertical-align:top;
+	width:200px;
+}
+.tpl_plist TABLE{
+	width:100%;
+	margin-bottom:20px;
+}
+.tpl_plist .title_row{
+	font-size:14px;
+	font-weight:bold;
+	background-color:#CCC;
+}
+.tpl_plist TD{
+	padding:4px;	
+}
+.tpl_plist .desc_table TR:HOVER{
+	background-color:#CCC;	
+}

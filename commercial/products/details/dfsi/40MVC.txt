@@ -1,0 +1,35 @@
+<table width="100%">
+<tbody>
+<tr>
+<td width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left"><span class="BodyText"><a name="153528b"></a>
+<p>Duct-free split systems are a matched combination of an outdoor condensing unit and an indoor fan coil unit connected only by refrigerant tubing and wires.</p>
+<p>The 40MVC fan coil is matched with a&nbsp;<a class="TextLink" href="javascript:addLink('/commercial/hvac/product_description/1,,CLI1_DIV12_ETI434_PRD1614,00.html');">38MVC</a>&nbsp;condensing unit.</p>
+</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span class="SubheaderText"><br />40MVC Features When Matched With 38MVC</span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span class="BodyText">13 SEER</span></li>
+<li><span class="BodyText">Fixed speed (9-24K BTUH)</span></li>
+<li><span class="BodyText">Cools down to -20&deg;F outdoor ambient</span></li>
+<li><span class="BodyText">100 ft. line length, in 18 and 24K</span></li>
+<li><span class="BodyText">Cost competitive</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span><br /></span></p>

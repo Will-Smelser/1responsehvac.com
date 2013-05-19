@@ -12,13 +12,39 @@ FactoryReset WordPress Theme © 2013 Bryan Hadaway
 FactoryReset is distributed under the terms of the GNU GPL
 */
 
+/* Footer Navifation */
+#menu-footer{
+	margin:0px auto;
+	width:1024px;
+}
+#menu-footer > li{
+	display:block;
+	float:left;
+	padding-left:20px;
+	min-width:200px;
+}
+#menu-footer > li a {
+	color:#FFF;
+	text-decoration:none;
+}
+#menu-footer > li a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+#menu-footer > li li {
+	margin-left:20px;
+	font-size:75%;
+}
+
+
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{font-size:100%;font:inherit;padding:0;border:0;margin:0;vertical-align:baseline}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}.clear{clear:both}
 big{font-size:18px}small, sup, sub{font-size:13px}sup{vertical-align:super}sub{vertical-align:sub}dd{margin-left:20px}kbd, tt{font-family:courier;font-size:13px}ins{text-decoration:underline}del, strike, s{text-decoration:line-through}
 
 body, div, p, input, textarea{line-height:125%}
 p{margin:20px 0}
 a img{border:0 none}
-#content img, #content figure{max-width:640px !important;height:auto}
+
 #sidebar img, #sidebar figure{max-width:300px !important;height:auto}
 h1, h2, h3, h4, h5, h6{line-height:30px;padding-bottom:10px;margin:30px 0 20px;clear:both}
 h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{font-weight:bold;text-decoration:none}
@@ -147,7 +173,7 @@ footer{margin-bottom:20px;}
 
 #search{margin-top:10px;float:right}
 
-#copyright{text-align:center;line-height:30px}
+#copyright{text-align:center;line-height:30px;color:#FFF}
 
 .entry-title{margin-bottom:20px}
 .entry-meta, .entry-footer{font-size:14px;margin:25px 0}

@@ -1,0 +1,26 @@
+<p><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>58STA/58STX Gas-Fired Furnaces&nbsp;</strong></span><br /><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;"><a name="144770b"></a>The 58STA/58STX 4-way multipoise gas furnaces feature Carrier's QuieTech<sup>TM</sup>&nbsp;noise reduction system for incredibly quiet induced draft operation. Applications are easy with 4-way multipoise design, through-the-furnace downflow venting, 13 different venting options, and a door designed for easy service access. An inner blower door is provided for tighter sealing in sensitive applications. The 58STA furnace is approved for use with either propane or natural gas. The 58STX furnace is approved for use with natural or propane gas, and for use in Low NOx Air Quality Management Districts. 58STA/58STX features include:&nbsp;</span><br /><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>&nbsp;</strong></span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">QuieTech&trade; noise reduction system</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Microprocessor-based control center</span> 
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Adjustable heating air temperature rise</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Adjustable cooling airflow</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">LED diagnostics and self-test features</span></li>
+</ul>
+</li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">4-way multipoise furnace, 13 vent applications</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Shorter in height - only 33 1 /3" tall</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Inner blower door</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Hot Surface Ignition (HSI)</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Draft safeguard switch to ensure proper furnace venting</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Heat pump compatible</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Residential installations eligible for consumer financing through the Retail Credit Program</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>

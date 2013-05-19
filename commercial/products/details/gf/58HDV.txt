@@ -1,0 +1,27 @@
+<p><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>58HDV Condensing Gas-Fired Furnace&nbsp;</strong></span><br /><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;"><a name="151341b"></a>The model 58HDV Condensing Gas Furnace is designed to achieve a rating of up to 95.0% Annual Fuel Utilization Efficiency (AFUE) depending on the type of installation and installation orientation. The 58HDV is designed for reliability, high efficiency, and quiet operation. Its unique arrangement of gas controls and venting flexibility makes this furnace practical for any type of installation. The 58HDV can be installed as a 1-pipe or 2-pipe venting system. The 58HDV is approved for use with natural or propane gas (field conversion required) and is GAMA certified.</span></p>
+<p><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">&nbsp;</span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="1" height="1" valign="top"><img src="http://www.catalog.residential.carrier.com/cda/images/global/spacer.gif" border="0" alt="" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<p><br /><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong><a name="151343h"></a>Standard Features&nbsp;</strong></span><br /><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;"><a name="151343b"></a></span></p>
+<p>&nbsp;</p>
+<p><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;"> 
+<ul>
+<li>Factory-configured ready for downflow applications</li>
+<li>4-way multipoise design for upflow (93.5% AFUE), and downflow &amp; horizontal (95% AFUE installation</li>
+<li>Installation in direct vent (2-pipe) or non-direct vent (1-pipe) applications</li>
+<li>Installation flexibility: sidewall or vertical vent</li>
+<li>Direct ignition with silicone nitride ignition</li>
+<li>Propane convertible in all applications with approved kit</li>
+<li>BPM variable speed DC motor</li>
+<li>Stainless steel primary Heat Exchanger</li>
+<li>Stainless steel secondary Heat Exchanger</li>
+<li>Electronic Air Cleaner and Humidifier terminals</li>
+<li>Two-stage operation</li>
+<li>Thermal lined one piece steel cabinet for noise reduction</li>
+</ul>
+</span></p>

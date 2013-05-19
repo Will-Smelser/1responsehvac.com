@@ -1,0 +1,29 @@
+<p><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">The Carrier Ultraviolet lamp provides homeowners with a cleaner indoor coil and improved indoor air quality (IAQ).</span></p>
+<p><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">&nbsp;</span><br /><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>Standard Features</strong></span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Inhibits fungus &amp; microbial growth on indoor coil/drain pan</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Offers a cleaner indoor coil</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Trouble-free, simple installation</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Nearly maintenance free operation</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /><span style="color: #000099; font-family: Verdana, Arial; font-size: x-small;"><strong>Warranty</strong></span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">90 day parts-only limited warranty on lamp/ballast assembly</span></li>
+<li><span style="color: #000000; font-family: Arial, 'Sans serif'; font-size: x-small;">Five-year parts-only limited warranty on unit base and power cord</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,20 @@
+<p><strong>Standard Features</strong></p>
+<ul>
+<li>13-15 SEER/10.9-12.5 EER</li>
+<li>Sound levels as low as 68 dBA</li>
+<li>Small footprint and "stackable"</li>
+<li>WeatherArmor Ultra&acirc;&bdquo;&cent; cabinet 
+<ul>
+<li>All steel cabinet construction</li>
+<li>Baked on powder paint</li>
+<li>Mesh coil guard</li>
+</ul>
+</li>
+<li>Scroll compressor</li>
+<li>Factory-supplied filter drier</li>
+<li>High-pressure switch, low-pressure switch</li>
+<li>Accumulator</li>
+<li>Line lengths up to 250'</li>
+<li>Low ambient operation to -20&Acirc;&deg;F (with low ambient accessories)</li>
+</ul>
+<p><span style="font-family: Arial, 'Sans serif';"><span style="font-size: x-small;"><br /></span></span></p>

@@ -1,0 +1,41 @@
+<table width="100%">
+<tbody>
+<tr>
+<td width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left"><span class="BodyText"><a name="153527b"></a>
+<p>Duct-free split systems are a matched combination of an outdoor condensing unit and an indoor fan coil unit connected only by refrigerant tubing and wires.</p>
+<p>The 40QNC fan coil is matched with the&nbsp;<a class="TextLink" href="javascript:addLink('/commercial/hvac/product_description/1,,CLI1_DIV12_ETI434_PRD1612,00.html');">38HDF</a>&nbsp;condensing unit.</p>
+</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span class="SubheaderText"><br />40QNC Features When Matched With 38HDF</span></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><span class="BodyText">13 SEER</span></li>
+<li><span class="BodyText">Fixed speed (18-36K BTUH)</span></li>
+<li><span class="BodyText">Cools down to -20&deg;F outdoor ambient</span></li>
+<li><span class="BodyText">200 ft. line length, 65- 100 ft. elevation</span></li>
+<li><span class="BodyText">Optional wired control</span> 
+<ul>
+<li><span class="BodyText">Room control</span></li>
+<li><span class="BodyText">Zone management system (32 fan coils / eight zones)</span></li>
+</ul>
+</li>
+<li><span class="BodyText">Three-phase, three voltages on size 036</span></li>
+<li><span class="BodyText">Cost competitive</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,10 @@
+#DO NOT UPLOAD TO SITE
+Options +Includes
+AddType text/html .html
+AddOutputFilter INCLUDES .html
+
+#upload to site
+#Options +FollowSymlinks
+#RewriteEngine on
+#rewritecond %{http_host} ^qcshvac.com [nc]
+#rewriterule ^(.*)$ http://www.qcshvac.com/$1 [r=301,nc]

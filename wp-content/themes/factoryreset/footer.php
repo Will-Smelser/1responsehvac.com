@@ -13,7 +13,11 @@
 </div>
 <?php wp_footer(); ?>
 
-<div>
+<div style="width:1024px;margin:0px auto;">
+<div style="float:right;color:#ffc21c;font-weight:bolder;text-align:center">
+	<span style="font-size:20px;display:inline-block;padding-bottom:5px;">Call Us!</span><br/>
+	<span style="font-size:35px">714-225-1326</span>
+</div>
 <?php wp_nav_menu( array( 'theme_location' => 'main-menu','menu'=>'Footer', 'menu_class'=>'footer_nav' ) ); ?>
 <div style="clear:both;padding-bottom:10px;" ></div>
 </div>

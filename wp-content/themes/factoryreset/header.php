@@ -57,6 +57,13 @@ article #comments{
 				<!-- <p id="site-description"><?php bloginfo( 'description' ) ?></p> -->
 			</div>
 			<nav>
+				<?php if(do_shortcode('[wp_cart_not_empty]')){ ?>
+					<div style="float:right" id="cart-tab">
+						<a href="/shopping-cart">
+						Cart&nbsp;<img align="right" src="/images/cart.png" />
+						</a>
+					</div>
+				<?php } ?>
 				<?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
 			</nav>
 			</div>
